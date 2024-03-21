@@ -2,7 +2,7 @@
 
 Convert Markdown exported from anywhere to MJML, for use in responsive emails.
 
-[Demo](https://markdown-to-mjml.pages.dev)
+[Demo](https://markdowntomjml.pages.dev)
 
 ## Installation
 
